@@ -10,4 +10,3 @@ end
 
 gem 'haml-rails'
 gem 'opal-rails'
-gem 'jquery-rails'
